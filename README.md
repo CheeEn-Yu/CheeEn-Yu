@@ -1,4 +1,4 @@
-- NTUME
+- National Taiwan University
 - Deep learning
 <!---
 CheeEn-Yu/CheeEn-Yu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
